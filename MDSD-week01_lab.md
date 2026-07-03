@@ -675,6 +675,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 > 📝 **บันทึกผล:** จดบันทึก Error (`[✗]`) ที่พบ และทำการแก้ไขตามคำแนะนำ  
 > ไม่ต้องแก้ไขรายการที่ขึ้น `[!] Android Studio`
+<img width="1457" height="742" alt="image" src="https://github.com/user-attachments/assets/1081e313-ecf6-4a12-bf25-b19b7da728a7" />
 
 ---
 
