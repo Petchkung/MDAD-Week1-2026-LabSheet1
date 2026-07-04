@@ -1014,8 +1014,33 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
+```
+runApp
+└── MyApp
+    └── MaterialApp
+        ├── ThemeData
+        └── MyHomePage
+            └── Scaffold
+                ├── AppBar
+                │   └── Text
+                ├── Center
+                │   └── Column
+                │       ├── Text
+                │       └── Text
+                └── FloatingActionButton
+                    └── Icon
 
-> 📝 **แบบฝึกหัด:** วาด Widget Tree ของโค้ดนี้ลงในใบงาน
+MyApp → Widget หลักของแอป
+MaterialApp → กำหนดธีมและหน้าหลักของแอป
+MyHomePage → หน้าหลักของแอป (StatefulWidget)
+Scaffold → โครงสร้างหน้าจอ เช่น AppBar, Body, FloatingActionButton
+AppBar → แถบด้านบน
+Text → แสดงข้อความ
+Center → จัด Widget ให้อยู่กึ่งกลาง
+Column → เรียง Widget ในแนวตั้ง
+FloatingActionButton → ปุ่มลอยสำหรับเพิ่มค่า Counter
+Icon → ไอคอนเครื่องหมาย +
+```
 
 ---
 
