@@ -1594,14 +1594,8 @@ Android SDK Version: 34.0.0
 
 **Widget Tree ที่วาด:**
 
-```
-(วาด Widget Tree ของแอปที่สร้างด้วยมือ)
+<img width="1125" height="1455" alt="image" src="https://github.com/user-attachments/assets/eadd6ddf-f803-4085-8f18-76ec4ac6d2e0" />
 
-MaterialApp
-└── ?
-    └── ?
-        └── ...
-```
 
 ### 3.3 การเปรียบเทียบ Hot Reload vs Hot Restart
 
